@@ -1,0 +1,40 @@
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.exe
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.deps.json
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.runtimeconfig.json
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.dll
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.pdb
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\CalithaLib.dll
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\GoldParserEngine.dll
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.Form1.resources
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.dll
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\refint\taskplc.dll
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.pdb
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\ref\taskplc.dll
+C:\Users\DELL\Downloads\Compressed\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.Up2Date
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.exe
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.deps.json
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.runtimeconfig.json
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.dll
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\taskplc.pdb
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\CalithaLib.dll
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\bin\Debug\net6.0-windows\GoldParserEngine.dll
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.AssemblyReference.cache
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.Form1.resources
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.GenerateResource.cache
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.AssemblyInfoInputs.cache
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.AssemblyInfo.cs
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.CoreCompileInputs.cache
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.csproj.Up2Date
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.dll
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\refint\taskplc.dll
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.pdb
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\taskplc.genruntimeconfig.cache
+C:\Users\VI\Desktop\study cs\Term 2\Programming language Design\goldparsereng\taskplc\taskplc\obj\Debug\net6.0-windows\ref\taskplc.dll

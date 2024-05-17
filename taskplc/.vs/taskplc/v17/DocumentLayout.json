@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VI\\Desktop\\study cs\\Term 2\\Programming language Design\\goldparsereng\\taskplc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D540A9CA-81A9-450C-BB9B-EB78556FEAB8}|taskplc\\taskplc.csproj|c:\\users\\vi\\desktop\\study cs\\term 2\\programming language design\\goldparsereng\\taskplc\\taskplc\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D540A9CA-81A9-450C-BB9B-EB78556FEAB8}|taskplc\\taskplc.csproj|solutionrelative:taskplc\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D540A9CA-81A9-450C-BB9B-EB78556FEAB8}|taskplc\\taskplc.csproj|c:\\users\\vi\\desktop\\study cs\\term 2\\programming language design\\goldparsereng\\taskplc\\taskplc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D540A9CA-81A9-450C-BB9B-EB78556FEAB8}|taskplc\\taskplc.csproj|solutionrelative:taskplc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D540A9CA-81A9-450C-BB9B-EB78556FEAB8}|taskplc\\taskplc.csproj|c:\\users\\vi\\desktop\\study cs\\term 2\\programming language design\\goldparsereng\\taskplc\\taskplc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D540A9CA-81A9-450C-BB9B-EB78556FEAB8}|taskplc\\taskplc.csproj|solutionrelative:taskplc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task.cs",
+              "DocumentMoniker": "C:\\Users\\VI\\Desktop\\study cs\\Term 2\\Programming language Design\\goldparsereng\\taskplc\\taskplc\\task.cs",
+              "RelativeDocumentMoniker": "taskplc\\task.cs",
+              "ToolTip": "C:\\Users\\VI\\Desktop\\study cs\\Term 2\\Programming language Design\\goldparsereng\\taskplc\\taskplc\\task.cs",
+              "RelativeToolTip": "taskplc\\task.cs",
+              "ViewState": "AQIAAGgCAAAAAAAAAAAmwLICAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:04:36.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\VI\\Desktop\\study cs\\Term 2\\Programming language Design\\goldparsereng\\taskplc\\taskplc\\Form1.cs",
+              "RelativeDocumentMoniker": "taskplc\\Form1.cs",
+              "ToolTip": "C:\\Users\\VI\\Desktop\\study cs\\Term 2\\Programming language Design\\goldparsereng\\taskplc\\taskplc\\Form1.cs",
+              "RelativeToolTip": "taskplc\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:05:03.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VI\\Desktop\\study cs\\Term 2\\Programming language Design\\goldparsereng\\taskplc\\taskplc\\Form1.cs",
+              "RelativeDocumentMoniker": "taskplc\\Form1.cs",
+              "ToolTip": "C:\\Users\\VI\\Desktop\\study cs\\Term 2\\Programming language Design\\goldparsereng\\taskplc\\taskplc\\Form1.cs [Design]",
+              "RelativeToolTip": "taskplc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:01:17.887Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
